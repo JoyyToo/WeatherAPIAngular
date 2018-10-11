@@ -1,0 +1,16 @@
+.btn {
+    background-color: #d26c22;
+    border-color: #c1631f;
+    border-radius: 3px;
+    color: white;
+    height: 34px;
+}
+
+.form-control {
+    width: 10%;
+    height: 24px;
+    padding: 6px 12px;
+    background-color: #fff;
+    border: 1px solid #d26c22;
+    border-radius: 4px;
+}
